@@ -7,9 +7,9 @@ from astrbot import Plugin, on_event, on_message
 
 # 数据库配置，需根据实际环境修改
 DB_CONFIG = {
-    'host': 'localhost',
-    'user': 'your_db_user',
-    'password': 'your_db_password',
+    'host': '111.229.101.138',
+    'user': 'game',
+    'password': 'uu5!^%jg',
     'charset': 'utf8mb4'
 }
 
